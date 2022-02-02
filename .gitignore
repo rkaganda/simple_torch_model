@@ -1,0 +1,6 @@
+/venv/
+runs/
+datasets/__pycache__/
+data/sample_data.csv
+/data/sample/
+.idea/
